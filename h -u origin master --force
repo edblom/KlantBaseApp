@@ -1,0 +1,23 @@
+[33mcommit cb88531f90c86870ab6937ebd1871884b0aa507c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ed Blom <edblom@gmail.com>
+Date:   Tue Apr 1 15:34:28 2025 +0200
+
+    Removed nested Git repositories and added KlantBaseWebDemo and ActielijstApi files to main repository
+
+[33mcommit 55d64ea70ae1eb3792ac3b2cd4cb1995bcf424bd[m
+Author: Ed Blom <edblom@gmail.com>
+Date:   Wed Feb 26 16:30:44 2025 +0100
+
+    login utf-8
+
+[33mcommit d299fdff52e825511aa734e30ce49b7e5ed61128[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Ed Blom <edblom@gmail.com>
+Date:   Wed Feb 26 16:27:22 2025 +0100
+
+    Add project files.
+
+[33mcommit dafff120436c372b2aac05f10809b0e0f95f3da1[m
+Author: Ed Blom <edblom@gmail.com>
+Date:   Wed Feb 26 16:27:20 2025 +0100
+
+    Add .gitignore and .gitattributes.
